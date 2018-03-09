@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-
 {
-    'name': "todo",
-    'description': "Gestion de tache a faire",
+    'name': "Gestion de tâches",
+    'description': "Application pour la gestion des tâches",
 
     'author': "Christian Rakotomalala",
     'depends': ['base'],
