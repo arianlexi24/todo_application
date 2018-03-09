@@ -8,4 +8,4 @@ class TodoTask(models.Model):
     _description = 'To-do Task'
     name = fields.Char('Description', required=True)
     is_done = fields.Boolean('Done?')
-    active = fields.Boolean('Active?', default=True)  
+    active = fields.Boolean('Active?', default=True)
